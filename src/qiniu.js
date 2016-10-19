@@ -162,6 +162,7 @@ function QiniuJsSDK() {
 
     var qiniuUpHosts = {
        "http": [
+	   "http://up-z1.qiniu.com",
            "http://upload.qiniu.com",
            "http://up.qiniu.com"
        ],
